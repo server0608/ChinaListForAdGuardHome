@@ -1,6 +1,6 @@
 # ChinaListForAdGuardHome
 
-**注意，闪存较小设备不建议使用本项目，规则文件较大，可能会爆闪存**
+**注意，闪存较小设备不建议使用本项目，规则文件较大。可能会爆闪存**
 
 基于`googlehosts`和`dnsmasq-china-list`生成的`AdGuardHome`上游DNS配置
 
