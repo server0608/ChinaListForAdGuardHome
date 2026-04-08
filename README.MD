@@ -59,15 +59,15 @@
 
 | 配置文件               | 地址                                                                                                   |
 |--------------------|------------------------------------------------------------------------------------------------------|
-| ChinaList          | [https://adguard.yojigen.tech/ChinaList.txt](https://adguard.yojigen.tech/ChinaList.txt)             |
-| GoogleHostsList    | [https://adguard.yojigen.tech/GoogleHostsList.txt](https://adguard.yojigen.tech/GoogleHostsList.txt) |
-| ChinaWhiteList     | [https://adguard.yojigen.tech/ChinaWhiteList.txt](https://adguard.yojigen.tech/ChinaWhiteList.txt)   |
-| ChinaBlackList     | [https://adguard.yojigen.tech/ChinaBlackList.txt](https://adguard.yojigen.tech/ChinaBlackList.txt)   |
+| ChinaList          | [https://server0608.github.io/ChinaListForAdGuardHome/ChinaList.txt](https://server0608.github.io/ChinaListForAdGuardHome/ChinaList.txt)             |
+| GoogleHostsList    | [https://server0608.github.io/ChinaListForAdGuardHome/GoogleHostsList.txt](https://server0608.github.io/ChinaListForAdGuardHome/GoogleHostsList.txt) |
+| ChinaWhiteList     | [https://server0608.github.io/ChinaListForAdGuardHome/ChinaWhiteList.txt](https://server0608.github.io/ChinaListForAdGuardHome/ChinaWhiteList.txt)   |
+| ChinaBlackList     | [https://server0608.github.io/ChinaListForAdGuardHome/ChinaBlackList.txt](https://server0608.github.io/ChinaListForAdGuardHome/ChinaBlackList.txt)   |
 
 ### 去广告规则地址
 
 | 去广告规则              | 地址                                                                                                   |
 |--------------------|------------------------------------------------------------------------------------------------------|
-| HalfLifeList.txt   | [https://adguard.yojigen.tech/HalfLifeList.txt](https://adguard.yojigen.tech/HalfLifeList.txt)       |
-| AntiAD.txt         | [https://adguard.yojigen.tech/AntiAD.txt](https://adguard.yojigen.tech/AntiAD.txt)                   |
-| AdRulesDNSList.txt | [https://adguard.yojigen.tech/AdRulesDNSList.txt](https://adguard.yojigen.tech/AdRulesDNSList.txt)   |
+| HalfLifeList.txt   | [https://server0608.github.io/ChinaListForAdGuardHome/HalfLifeList.txt](https://server0608.github.io/ChinaListForAdGuardHome/HalfLifeList.txt)       |
+| AntiAD.txt         | [https://server0608.github.io/ChinaListForAdGuardHome/AntiAD.txt](https://server0608.github.io/ChinaListForAdGuardHome/AntiAD.txt)                   |
+| AdRulesDNSList.txt | [https://server0608.github.io/ChinaListForAdGuardHome/AdRulesDNSList.txt](https://server0608.github.io/ChinaListForAdGuardHome/AdRulesDNSList.txt)   |
